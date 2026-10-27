@@ -23,4 +23,4 @@ I believe technology is full of unanswered questions—and I'm here to explore t
 
 To grow into an **AI/ML Engineer**, build intelligent solutions, and contribute to technology that makes a difference.
 
-✨ *Exploring the space between code, intelligence, and the mysteries of the universe.***
+✨ ***Exploring the space between code, intelligence, and the mysteries of the universe.***

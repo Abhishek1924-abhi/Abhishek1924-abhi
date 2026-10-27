@@ -1,4 +1,4 @@
-**# Hey there, I'm a CS Student 👋
+### Hey there, I'm Abhishek BS Student 👋
 
 ### 🤖 Aspiring AI/ML Engineer | Python Enthusiast | Curious Mind
 
